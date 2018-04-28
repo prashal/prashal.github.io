@@ -1474,25 +1474,7 @@ a.newer-posts:hover {
     color: white;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+/* To hide tags list */
+.hidden{
+    display: none;
+}
