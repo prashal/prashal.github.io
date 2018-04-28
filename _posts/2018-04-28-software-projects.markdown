@@ -17,24 +17,25 @@ Simple MP3 player with playlist and library. This project is done as summer proj
 
 ![MP3 Player Snapshot](https://github.com/prashal/mp3player/raw/master/snapshots/snapshot.png "MP3 Player")
 
-For more details go to [repositary](https://github.com/prashal/mp3player) or to download go to [release](https://github.com/prashal/mp3player/releases/latest)
+For more details go to [repositary](https://github.com/prashal/mp3player) and to download go to [release](https://github.com/prashal/mp3player/releases/latest)
 
 
 
-#### 1. Slide Game
+#### 2. Slide Game
 
-Simple MP3 player with playlist and library. This project is done as summer project during my graduation. It demonstrate the use of Windows Multimedia SDK, Win32 GUI and custom data structure.
+Number, words and image slide puzzle game.
 
-![MP3 Player Snapshot](https://github.com/prashal/mp3player/raw/master/snapshots/snapshot.png "MP3 Player")
+![Slidegame Snapshot-1](https://github.com/prashal/slidegame/raw/master/snapshots/number_easy.png "Number Puzzle, Easy Mode")
+![Slidegame Snapshot-2](https://github.com/prashal/slidegame/raw/master/snapshots/image_settings.png "Image Puzzle, Easy Mode with settings dialog")
 
-For more details go to [repositary](https://github.com/prashal/mp3player) or to download go to [release](https://github.com/prashal/mp3player/releases/latest)
+For more details go to [repositary](https://github.com/prashal/slidegame) and to download go to [release](https://github.com/prashal/slidegame/releases/latest)
 
 
 
-#### 1. Sudoku
+#### 3. Sudoku
 
-Simple MP3 player with playlist and library. This project is done as summer project during my graduation. It demonstrate the use of Windows Multimedia SDK, Win32 GUI and custom data structure.
+Famous number puzzle game
 
-![MP3 Player Snapshot](https://github.com/prashal/mp3player/raw/master/snapshots/snapshot.png "MP3 Player")
+![Sudoku Snapshot](https://github.com/prashal/mp3player/raw/master/snapshots/snap.png "Sudoku")
 
-For more details go to [repositary](https://github.com/prashal/mp3player) or to download go to [release](https://github.com/prashal/mp3player/releases/latest)
+For more details go to [repositary](https://github.com/prashal/sudoku) and to download go to [release](https://github.com/prashal/sudoku/releases/latest)
