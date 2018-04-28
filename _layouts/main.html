@@ -88,9 +88,9 @@ layout: default
 	});
 	
 	//Hide the unused tags	
-	currenttags = document.querySelectorAll('div.tagdivs')
-	currenttags.forEach(function(div) {
+	currenttags = document.querySelectorAll('a.tags')
+	currenttags.forEach(function(link) {
 		//div.className += ' active';
-		console.log(div.innerHTML);
+		console.log(link.innerHTML);
 	});
 </script>
