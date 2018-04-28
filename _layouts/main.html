@@ -101,8 +101,11 @@ layout: default
 			tagdiv.className= 'tagdivs hidden';
 		});
 		id = href.substring(href.lastIndexOf('#')+1);
-		tagdiv = document.getElementById(id);
-		console.log(tagdiv.innerHTML);
-		tagdiv.className= 'tagdivs';
+		if(id) {
+			tagdiv = document.getElementById(id);
+			console.log(tagdiv.innerHTML);
+			tagdiv.className= 'tagdivs';
+		}
 	}
+	ShowTag(document.URL);
 </script>
