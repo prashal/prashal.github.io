@@ -1,6 +1,6 @@
 title: Hello! I'm Prasanta Halder
 description: > # this means to ignore newlines until "baseurl:"
-  This is Prasanta Halder's Website. 
+  This is Prasanta Halder's Blog. 
   This mainly deal with my project details and timepass posts.
 permalink: ':title/'
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -22,6 +22,9 @@ discus-identifier: prashal-github-io # add your discus identifier
 
 # Tracker
 analytics: # Google Analytics
+
+# Syntax Highlighter
+highlighter: rouge
 
 # Build Settings
 markdown: kramdown
