@@ -43,4 +43,6 @@ M. Haque, P. Halder IET Proc vol. 12, no. 2, pp. 111-122 (2013)
 ## Skills
 
   *	C, C++, Verilog and VHDL
+  * Python, VBScript
+  * Eagle, DxDesigner+PADS flow
   *	MATLAB, HFSS and IE3D
