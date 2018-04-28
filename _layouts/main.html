@@ -91,7 +91,7 @@ layout: default
 	taglinks = document.querySelectorAll('a.tag')
 	taglinks.forEach(function(link) {
 		link.addEventListener("click", function(){
-			console.log(this.href);
+			//console.log(this.href);
 			ShowTag(this.href);
 		}); 
 	});
@@ -103,7 +103,7 @@ layout: default
 		id = href.substring(href.lastIndexOf('#')+1);
 		if(id) {
 			tagdiv = document.getElementById(id);
-			console.log(tagdiv.innerHTML);
+			//console.log(tagdiv.innerHTML);
 			tagdiv.className= 'tagdivs';
 		}
 	}
