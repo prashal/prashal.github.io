@@ -30,12 +30,12 @@ Design of Optical Transport Network (ITU-T G.709) based 40G Muxponder card which
 
 ## Academic Projects
 
-#### M. Tech. Project: 
+#### M. Tech. Project 
   “Full wave analysis of circular loop antennas around a conducting cone” under the guidance of Prof. Bratin Ghosh
-#### B. Tech. Project: 
+#### B. Tech. Project
   “Design Of Low Cost Heart-Rate Monitor” under the guidance of Prof. Arabinda Roy
 
-#### Publication:
+#### Publication
 
 Analysis of arbitrary multiple loop antennas around a conducting cone, with rotational symmetry by B. Ghosh, SK.
 M. Haque, P. Halder IET Proc vol. 12, no. 2, pp. 111-122 (2013)
