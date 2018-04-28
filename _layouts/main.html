@@ -80,10 +80,17 @@ layout: default
 </div>
 
 <script type="text/javascript">
-	console.log(window.location.pathname);
-    currentLinks = document.querySelectorAll('a[href="'+window.location.pathname+'"]')
-    currentLinks.forEach(function(link) {
-        link.className += ' active';
+	//Select the sidebar menu item
+	currentLinks = document.querySelectorAll('a[href="'+window.location.pathname+'"]');
+	currentLinks.forEach(function(link) {
+	link.className += ' active';
 		console.log(link.innerHTML);
-    });
+	});
+	
+	//Hide the unused tags	
+	currenttags = document.querySelectorAll('div.tagdivs')
+	currenttags.forEach(function(div) {
+		//div.className += ' active';
+		console.log(div.innerHTML);
+	});
 </script>
