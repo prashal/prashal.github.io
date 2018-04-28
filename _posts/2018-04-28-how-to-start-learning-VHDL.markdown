@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How To Start Learning VHDL
-date: 2018-04-28 00:00:00 +0530
+date: 2018-04-29 00:00:00 +0530
 description: This post gives you a pointer to start coding in VHDL # Add post description (optional)
 img: how-to-start-learning-vhdl.jpg # Add image post (optional)
 showcomment: true
