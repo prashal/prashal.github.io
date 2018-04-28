@@ -36,6 +36,6 @@ For more details go to [repositary](https://github.com/prashal/slidegame) and to
 
 Famous number puzzle game
 
-![Sudoku Snapshot](https://github.com/prashal/mp3player/raw/master/snapshots/snap.png "Sudoku")
+![Sudoku Snapshot](https://github.com/prashal/sudoku/raw/master/snapshots/snap.png "Sudoku")
 
 For more details go to [repositary](https://github.com/prashal/sudoku) and to download go to [release](https://github.com/prashal/sudoku/releases/latest)
