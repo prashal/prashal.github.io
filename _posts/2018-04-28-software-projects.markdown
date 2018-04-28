@@ -7,7 +7,7 @@ img:  # Add image post (optional)
 hidden: true
 tags: [Prasanta, Details, projects, software]
 ---
-As a part of timepass and my hobby, I have written some codes. I am more like windows guy. So most of my projects are for windows using Visual C++ as compiler
+As a part of timepass and my hobby, I have written some codes. I am more like windows guy. So most of my projects are for windows using Visual C++ as compiler.
 
 ## Windows Application using VC++ 2010 Express
 
