@@ -100,7 +100,8 @@ layout: default
 		tagdivs.forEach(function(tagdiv) {
 			tagdiv.className= 'tagdivs hidden';
 		});
-		tagdiv = document.getElementById(href.substring(1));
+		id = href.url.substring(url.lastIndexOf('#')+1);
+		tagdiv = document.getElementById(id);
 		console.log(tagdiv.innerHTML);
 		tagdiv.className= 'tagdivs';
 	}
