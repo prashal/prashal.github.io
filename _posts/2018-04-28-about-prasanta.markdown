@@ -13,7 +13,7 @@ tags: [Prasanta, Details, Resume]
 Experienced Senior Electronics Hardware Design Engineer with a demonstrated history of working in the telecommunications industry. Skilled in Optical Communication subsystem design (GPON/DWDM Hardware), Antennas, VHDL/Verilog, C, C++, python, and Embedded Linux. Strong engineering professional with a Master’s Degree focused in RF and Microwave Engineering. 
 
 
-## Professional Experience 
+## Professional Experiences 
 
 #### Design of End user equipment for Access Network 
 Design of Optical Network Terminal (ONT) for Gigabit Passive Optical network (ITU-T G.983) that provides triple play services at customer premises
