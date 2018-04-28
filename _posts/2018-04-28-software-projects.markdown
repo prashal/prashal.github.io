@@ -15,9 +15,9 @@ As a part of my hobby, I have written some code. As I am major in electronics, I
 
 Simple MP3 player with playlist and library. This project is done as summer project during my graduation. It demonstrate the use of Windows Multimedia SDK, Win32 GUI and custom data structure.
 
-![Alt text](https://github.com/prashal/mp3player/master/snapshots/snapshot.png?raw=true "MP3 Player")
+![MP3 Player Snapshot](https://github.com/prashal/mp3player/raw/master/snapshots/snapshot.png "MP3 Player")
 
-For more details go to [Repositary](https://github.com/prashal/mp3player) or to download go to [Release](https://github.com/prashal/mp3player/master//releases/latest)
+For more details go to [repositary](https://github.com/prashal/mp3player) or to download go to [release](https://github.com/prashal/mp3player/releases/latest)
 
 
 
