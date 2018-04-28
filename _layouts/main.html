@@ -90,7 +90,8 @@ layout: default
 	//Hide the unused tags	
 	currenttags = document.querySelectorAll('a.tag')
 	currenttags.forEach(function(link) {
-		//div.className += ' active';
-		console.log(link.innerHTML);
+		link.addEventListener("click", function(){
+		    console.log(this.innerHTML);
+		}); 
 	});
 </script>
