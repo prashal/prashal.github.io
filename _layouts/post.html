@@ -12,7 +12,9 @@ layout: main
     <div class="wrap-content">
       <header class="header-page">
         <h1 class="page-title">{{page.title}}</h1>
-        <div class="page-date"><span>{{page.date | date: '%Y, %b %d'}}&nbsp;&nbsp;&nbsp;&nbsp;</span></div>
+        {% if page.hidedate %}
+          <div class="page-date"><span>{{page.date | date: '%Y, %b %d'}}&nbsp;&nbsp;&nbsp;&nbsp;</span></div>
+        {% endif %}
       </header>
       {{content | markdownify}}
       <div class="page-footer">
@@ -27,7 +29,7 @@ layout: main
           {% endfor %}
         </div>
       </div>
-      {% if page.comment %}
+      {% if page.showcomment %}
         {% include disqus.html %}
       {% endif %}
     </div> <!-- End Wrap Content -->
