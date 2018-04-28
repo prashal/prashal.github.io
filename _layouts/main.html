@@ -12,6 +12,32 @@ layout: default
       <p>{{site.about-author}}</p>
     </div>
   </header> <!-- End Header -->
+	<!-- SIDEBAR MENU -->
+	<div class="profile-usermenu">
+		<ul class="nav">
+			<li>
+				<a href="/how-to-start-learning-VHDL/">
+				<i class="fa fa-fw fa-user"></i>
+				About Prasanta </a>
+			</li>
+			<li>
+				<a href="/hardware-projects/">
+				<i class="fa fa-fw fa-microchip"></i>
+				Hardware Projects </a>
+			</li>
+			<li>
+				<a href="/software-projects/" target="_blank">
+				<i class="fa fa-fw fa-television"></i>
+				Software Projects </a>
+			</li>
+			<li>
+				<a href="/">
+				<i class="fa fa-fw fa-book"></i>
+				Blog </a>
+			</li>
+		</ul>
+	</div>
+	<!-- END MENU -->
   <footer>
     <section class="contact">
       <h3 class="contact-title">Contact me</h3>
@@ -52,3 +78,12 @@ layout: default
 <div class="content-box clearfix">
   {{ content }}
 </div>
+
+<script type="text/javascript">
+	console.log(window.location.pathname);
+    currentLinks = document.querySelectorAll('a[href="'+window.location.pathname+'"]')
+    currentLinks.forEach(function(link) {
+        link.className += ' active';
+		console.log(link.innerHTML);
+    });
+</script>
