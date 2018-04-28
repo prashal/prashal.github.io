@@ -11,7 +11,7 @@ As a part of my hobby, I have written some code. As I am major in electronics, I
 
 ## Windows Application using VC++ 2010 Express
 
-#### MP3 Player
+#### 1. MP3 Player
 
 Simple MP3 player with playlist and library. This project is done as summer project during my graduation. It demonstrate the use of Windows Multimedia SDK, Win32 GUI and custom data structure.
 
