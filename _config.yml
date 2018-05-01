@@ -1,7 +1,7 @@
 title: Hello! I'm Prasanta
 description: > # this means to ignore newlines until "baseurl:"
   This is Prasanta Halder's Blog. 
-  This mainly deal with my project details and timepass posts.
+  This mainly deal with my project details and blog posts.
 permalink: ':title/'
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://prashal.github.io" # the base hostname & protocol for your site, e.g. http://example.com
