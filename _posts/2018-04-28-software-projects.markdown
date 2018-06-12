@@ -7,7 +7,7 @@ img:  # Add image post (optional)
 hidden: true
 tags: [Prasanta, Details, projects, software]
 ---
-I believe that without a GUI, all program become boring. Hence I tried to write some programs with GUI ofcourse using Visual C++ as compiler.
+I believe that without a GUI, all programs become boring. Hence I tried to write some programs with GUI ofcourse using Visual C++ as compiler.
 
 ## Windows Application using VC++ 2010 Express
 
