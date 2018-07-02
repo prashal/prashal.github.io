@@ -18,6 +18,6 @@ The project uses the IEEE-754 Single Precision floating point format. The follow
 
 Using the above format, the floating point number can be expressed as follows -
 
-| (-1)*sign 1.mantissa x 2 ^ exponent |
+(-1)*sign 1.mantissa x 2 ^ exponent
 
 In the IEEE-754 format the first bit of mantissa is assumed to be 1 and the remaining part is the fractional part.
