@@ -1,11 +1,7 @@
 ---
-layout: post
+layout: page
 title: Software Projects
-date: 2018-04-28 13:32:20 +0530
 description: My software projects. 
-img:  # Add image post (optional)
-hidden: true
-tags: [Prasanta, Details, projects, software]
 ---
 I believe that without a GUI, all programs become boring. Hence I tried to write some programs with GUI ofcourse using Visual C++ as compiler.
 
