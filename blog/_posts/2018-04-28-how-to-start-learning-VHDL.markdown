@@ -6,7 +6,7 @@ description: This post gives you a pointer to start coding in VHDL # Add post de
 img: how-to-start-learning-vhdl.jpg # Add image post (optional)
 showcomment: true
 showdate: true
-permalink: /blog/:title
+permalink: '/blog/:title/'
 tags: [Programming, Learn] # add tag
 ---
 
