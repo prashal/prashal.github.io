@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: simplepage
 title: Software Projects
 description: My software projects. 
 ---

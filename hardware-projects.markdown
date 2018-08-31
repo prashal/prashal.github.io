@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: simplepage
 title: Hardware Projects
 description: My Hardware Projects
 ---
