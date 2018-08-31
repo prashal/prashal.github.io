@@ -1,5 +1,7 @@
 ---
 layout: main
+title: My page
+permalink: mypageurl.html
 ---
 {% for post in paginator.posts %}
 <article class="post">
